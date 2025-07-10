@@ -13,8 +13,11 @@
 </p>
 
 ---
+<div align="center">
 
 ## 📊 SafariLink at a Glance
+
+</div>
 
 <div align="center">
 
@@ -43,23 +46,13 @@ Kenya is one of the world’s most iconic safari destinations, yet its domestic 
 **SafariLink** is a digital marketplace connecting travelers with Kenya’s rich but underexposed tours and experiences.  
 _Think of it as the “Airbnb for local tour operators.”_
 
----
+### ✳️ Key Features
 
-## ✨ Features <a name="features"></a>
-
-<div align="center">
-
-| 🚩 | **Verified Tour Listings**<br/>Curated packages with images, itineraries, pricing, and real-time availability. |
-|----|-------------------------------------------------------------------------------------------------------------|
-| 🔎 | **Smart Filters**<br/>Filter by budget, region, or theme—find Maasai Mara glamping, Naivasha escapes, and more. |
-| 🤝 | **Social Trust Layer**<br/>Customer reviews, photo uploads, and verified bookings for confidence and safety. |
-| 📱 | **WhatsApp & IG Integration**<br/>Operators manage bookings even without a website. |
-| 🛠️ | **Custom Itinerary Builder**<br/>Mix & match packages to create your own adventure. |
-| 🗺️ | **Interactive Map Search**<br/>Explore tours visually by region or attraction. |
-| 🏷️ | **Last-Minute Deals**<br/>Exclusive offers for spontaneous travelers. |
-| 🏅 | **Operator Badges**<br/>Spot top-rated and eco-friendly operators easily. |
-
-</div>
+- **Verified Tour Listings:** Operators can list curated packages with images, itineraries, pricing, and real-time availability.
+- **Filter by Budget / Region / Theme:** Maasai Mara glamping? Budget-friendly Naivasha escape? Coast road trip? Find it all in one place.
+- **Social Trust Layer:** Customer reviews, photo uploads, and verified bookings create confidence and reduce scams.
+- **WhatsApp & IG Integration:** Operators without a full website can still manage bookings via our platform.
+- **Custom Itinerary Builder:** Travelers can mix & match across tour packages to create their own bundle.
 
 ---
 
@@ -74,8 +67,7 @@ _Think of it as the “Airbnb for local tour operators.”_
 
 ## Technology
 
-SafariLink leverages **Avalanche blockchain** to ensure secure, transparent, and tamper-proof booking records.  
-By utilizing Avalanche, we provide verifiable transaction history for both travelers and operators, building trust and reducing fraud in the marketplace.
+SafariLink will leverage **Avalanche blockchain** to ensure secure, transparent, and tamper-proof booking records. By utilizing Avalanche, we can provide verifiable transaction history for both travelers and operators, building trust and reducing fraud in the marketplace.
 
 ---
 
@@ -91,25 +83,12 @@ By utilizing Avalanche, we provide verifiable transaction history for both trave
 
 ---
 
-## 🚀 Traction & Vision
+## Traction Vision
 
 - **The go-to app for Kenyan safaris**—like Booking.com for African travel.
 - **A discovery platform** for new experiences: camping, biking tours, cultural immersions, eco-lodges.
 - **A digital backbone** for digitizing thousands of tour companies across Kenya.
 - **A data-rich source of truth** for travel trends, pricing, and behavior across the region.
-
----
-
-## Get Started <a name="get-started"></a>
-
-<p align="center">
-    <a href="https://safarilink.co.ke/signup">
-        <img src="https://img.shields.io/badge/Sign%20Up%20Now-Join%20SafariLink-blueviolet?style=for-the-badge" alt="Sign Up"/>
-    </a>
-    <a href="https://safarilink.co.ke/explore">
-        <img src="https://img.shields.io/badge/Explore%20Tours-Start%20Your%20Adventure-teal?style=for-the-badge" alt="Explore Tours"/>
-    </a>
-</p>
 
 ---
 
